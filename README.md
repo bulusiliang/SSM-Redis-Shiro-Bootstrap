@@ -1,4 +1,4 @@
-# SSMDemo
+# SSM框架说明
 个人搭建Spring+SpringMVC+MyBatis框架
 
 
